@@ -83,7 +83,7 @@ Os **cards** são responsivos, adaptando-se perfeitamente a telas menores.
 <img src=".\assets\img-gameDashboard\1.png">
 <img src=".\assets\img-gameDashboard\2.png">
 
-### 2. Jogos Recentes (jogos-recentes.html)
+### 2. Jogos Recentes (jogosRecentes.html)
 
 Esta página detalha os jogos recentes com:
 - Imagens dos jogos.
