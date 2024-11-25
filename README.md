@@ -159,5 +159,5 @@ git push origin minha-branch
 4. Crie um Pull Request para revisão.
 
 ## 👨‍💻 Autor
-Desenvolvido por [Seu Nome]().  
+Desenvolvido por [Julia Ribeiro]().  
 Se tiver dúvidas ou sugestões, fique à vontade para entrar em contato!
