@@ -5,6 +5,8 @@
 
 O objetivo principal deste projeto é fornecer uma ferramenta simples, porém funcional, para visualizar dados de jogos, vitórias, derrotas e tempo jogado, tornando-se ideal para estudo ou uso pessoal.
 
+[Game Dashboard](https://juliayuki.github.io/GameDashboard/)
+
 
 ## ⚙️ Funcionalidades
 
